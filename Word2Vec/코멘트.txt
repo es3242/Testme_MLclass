@@ -1,0 +1,8 @@
+nounsDocument.txt로 불러와지긴 함
+- 다만 word2vec이 ratings.txt처럼 id	document	label 등의 애트리뷰트가 있는 형태에 최적화되어 있다 보니 그 부분에 대한 대비가 필요해 보임.
+- 우리는 슬라이드 번호 등의 인덱스를 첨가할 수 있을듯?
+
+nounsDocument3보다는 nounsDocument2가 더 적합해 보임
+- 아마도 문장 형태에 더 가까워서일지도?
+
+단어보다는 문장을 그대로 넣는 건 어떨지 싶다.

@@ -20,8 +20,8 @@ Okt = Okt()
 
 def makeTwoBlanks(readFileName,writeFileName,blank): #매개변수 1.읽어드릴 파일, 2.생성할 파일명 2.생성할 빈칸 갯수 (1~3)
     try:    
-        f1 = open(readFileName)
-        f2 = open(writeFileName,'w')
+        f1 = open(readFileName, encoding='UTF-8')
+        f2 = open(writeFileName,'w', encoding='UTF-8')
 
         if blank == 1:
             while True:
