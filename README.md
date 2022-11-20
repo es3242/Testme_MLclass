@@ -2,12 +2,16 @@
 
 blankMaker.py
 빈칸 생성기
+
 nounExtractor.py
 명사 추출기
+
 pdftotext_pdfminer.py
 pdf->txt
+
 tfIdfTest.py
 tfIdf 사용 파일 py (main) <- 이 파일로 실행하세요
+
 tfidf.ipynb
 (백업용, 사용X) (결과를 바로 볼 수 있어 이 파일을 사용함.)
 
