@@ -3,7 +3,6 @@
 import os
 from tokenize import String
 from konlpy.tag import Okt
-import random
 from pdftotext_pdfminer import mining
 
 Okt = Okt()
