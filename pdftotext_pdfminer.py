@@ -6,11 +6,9 @@ from pdfminer.layout import LTTextContainer
 from pdfminer.layout import LAParams
 from pdfminer.pdfpage import PDFPage
 from pdfminer.pdfparser import PDFParser
-import os
 from io import StringIO
 from tokenize import String
 from konlpy.tag import Okt
-import random
 
 Okt = Okt()
 
