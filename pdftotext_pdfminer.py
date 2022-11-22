@@ -49,11 +49,11 @@ def mining(path):
 
             page_no += 1
 
+
     for i in range(0, len(pdf_bypage)):
         pdf_bypage[i] = pdf_bypage[i].replace("\n", "")
 
     
-
     fp.close()
         
     print('pdfminer 정상작동')
