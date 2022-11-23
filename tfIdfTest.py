@@ -33,7 +33,7 @@ result = makeBlanks(path,lista).copy()
 
 # txt 파일로 추출하는 부분
 
-f = open("output.txt","w")
+f = open("output.txt","w", encoding='utf-8')
 
 for i in range(D):
     f.write("slide %d\n" %(i+1))
