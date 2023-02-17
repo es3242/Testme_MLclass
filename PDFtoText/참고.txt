@@ -1,0 +1,9 @@
+https://github.com/pdfminer/pdfminer.six/issues/232
+https://stackoverflow.com/questions/12605170/extract-text-per-page-with-python-pdfminer
+https://stackoverflow.com/questions/34591770/read-pdf-page-by-page
+https://signing.tistory.com/17
+https://stackoverflow.com/questions/26901914/python-string-replace-error
+https://taptorestart.tistory.com/entry/PDF%EB%A5%BC-%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%A1%9C-%EB%B0%94%EA%BF%94%EC%A3%BC%EB%8A%94-pdfminersix-pypdf2-pdfplumber-%EB%B9%84%EA%B5%90%ED%95%B4%EB%B3%B4%EA%B8%B0
+https://pdfminersix.readthedocs.io/en/latest/topic/converting_pdf_to_text.html#topic-pdf-to-text-layout
+https://blockdmask.tistory.com/428
+https://tariat.tistory.com/745
